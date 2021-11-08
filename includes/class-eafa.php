@@ -17,7 +17,7 @@ class EAFA
 
     public function register_routes()
     {
-        $eaf_api = new EAFA_API_Fonts();
+        $eaf_api = new EAFA_API();
 
         $eaf_api->register_routes();
     }
