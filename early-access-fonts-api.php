@@ -3,7 +3,7 @@
 /**
  * Plugin Name: OMGF - Early Access Fonts API
  * Description: Provides external API for Early Access Fonts compatibility for OMGF Pro.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Daan from FFW.Press
  * Author URI: https://ffw.press
  * Text Domain: early-access-fonts-api
